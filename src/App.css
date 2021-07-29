@@ -1,0 +1,17 @@
+.user-box {
+  padding: 5% 5% 5% 5%;
+  border: solid;
+  border-width: 0.5px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.user-list{
+  width: 500px;
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(194, 187, 178);
+  border-radius: 10px;
+}
